@@ -1,0 +1,6 @@
+﻿src/.vs
+src/NvmSystemTray/obj
+src/NvmSystemTray/bin
+src/Release
+src/NvmSystemTray/Properties/PublishProfiles/FolderProfile.pubxml.user
+src/NvmSystemTray/NvmSystemTray.csproj.user
