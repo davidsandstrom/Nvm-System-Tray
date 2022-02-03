@@ -30,7 +30,7 @@ namespace Nvm.Forms
 			var exit = new ToolStripMenuItem("Exit", null, OnExitClick);
 			menu.Items.Add(exit);
 
-			using Stream iconStream = Assembly.GetExecutingAssembly().GetManifestResourceStream("Nvm.Forms.nvm.ico");
+			using Stream iconStream = Assembly.GetExecutingAssembly().GetManifestResourceStream("NvmSystemTray.nvm.ico");
 
 			notifyIcon = new NotifyIcon()
 			{
